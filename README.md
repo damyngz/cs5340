@@ -1,2 +1,2 @@
-# cs5340..
+# cs5340
 repository for cs5340 related work
